@@ -1,0 +1,14 @@
+.app-wrapper{
+    height: 100vh;
+    overflow: hidden;
+}
+
+.app-nav-wrapper{
+    flex: 0 0 10%;
+    background-color: royalblue;
+}
+
+.app-body-wrapper{
+    flex: 0 0 90%;
+    background-color: #ccc;
+}
